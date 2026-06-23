@@ -402,22 +402,3 @@ By completing this project, you will learn:
 
 ---
 
-# 👩‍💻 Author
-
-Yukktha Srisaila
-
-QA Intern | AI/ML Enthusiast
-
-Skills:
-- Python
-- Machine Learning
-- SQL
-- Streamlit
-- Playwright Automation
-- Data Analysis
-
----
-
-# 📄 License
-
-This project is developed for educational, learning, and portfolio purposes.
